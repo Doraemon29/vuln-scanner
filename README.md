@@ -48,6 +48,7 @@ Then clone this repository:
 git clone https://github.com/Mrsdebug/vuln-scanner.git
 cd vuln-scanner
 chmod +x Vuln-scan.sh
+./install.sh
 ```
 
 ---
@@ -55,7 +56,7 @@ chmod +x Vuln-scan.sh
 ## 🧪 Usage
 
 ```bash
-./vuln-scan.sh example.com
+./Vuln-scan.sh example.com
 ```
 
 Results will be stored in a folder named `example.com_scan`.
