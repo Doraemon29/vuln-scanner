@@ -1,6 +1,9 @@
 # vuln-scanner
 A bash script to scan domains using subfinder, httpx, dirsearch, nmap, and nuclei
 # 🔍 Vuln Scanner
+<p align="center">
+  <img src="logo.png" alt="Vuln Scanner Logo" width="300"/>
+</p>
 
 [![License](https://img.shields.io/github/license/Mrsdebug/vuln-scanner?color=green)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/Mrsdebug/vuln-scanner)](https://github.com/Mrsdebug/vuln-scanner/issues)
