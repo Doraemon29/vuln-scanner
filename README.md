@@ -44,7 +44,7 @@ Then clone this repository:
 ```bash
 git clone https://github.com/Mrsdebug/vuln-scanner.git
 cd vuln-scanner
-chmod +x vuln-scan.sh
+chmod +x Vuln-scan.sh
 ```
 
 ---
